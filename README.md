@@ -1,4 +1,3 @@
-```html
 <h1>Recipe Tracker</h1> 
 
 <p>Personal web app to manage recipes, food inventory, family food preferences etc. </p> 
@@ -26,5 +25,3 @@
 				</ul> 
 			</li>
 		</ul>
-		
-```
